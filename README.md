@@ -20,9 +20,9 @@ python main.py books/frankenstein.txt
 --- Begin report of books/frankenstein.txt ---
 10292 words found in the document
 The most common letter is: e (5151 times)
-```
---- End report ---
 
+--- End report ---
+```
 
 ## Technologies
 
